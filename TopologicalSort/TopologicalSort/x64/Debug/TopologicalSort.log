@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Arseny\source\repos\С++\Osipov_ASD\05_Labs\TopologicalSort\TopologicalSort\Source.cpp(126,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Arseny\source\repos\С++\Osipov_ASD\05_Labs\TopologicalSort\TopologicalSort\Source.cpp(155,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  TopologicalSort.vcxproj -> C:\Users\Arseny\source\repos\С++\Osipov_ASD\05_Labs\TopologicalSort\x64\Debug\TopologicalSort.exe
