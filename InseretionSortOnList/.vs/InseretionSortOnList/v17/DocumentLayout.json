@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Arseny\\source\\repos\\\u0421\u002B\u002B\\Osipov_ASD\\05_Labs\\InseretionSortOnList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F433458-EBEB-46BE-AD89-F8A002A1E409}|InseretionSortOnList\\InseretionSortOnList.vcxproj|C:\\Users\\Arseny\\source\\repos\\\u0421\u002B\u002B\\Osipov_ASD\\05_Labs\\InseretionSortOnList\\InseretionSortOnList\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8F433458-EBEB-46BE-AD89-F8A002A1E409}|InseretionSortOnList\\InseretionSortOnList.vcxproj|solutionrelative:InseretionSortOnList\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Arseny\\source\\repos\\\u0421\u002B\u002B\\Osipov_ASD\\05_Labs\\InseretionSortOnList\\InseretionSortOnList\\Source.cpp",
+              "RelativeDocumentMoniker": "InseretionSortOnList\\Source.cpp",
+              "ToolTip": "C:\\Users\\Arseny\\source\\repos\\\u0421\u002B\u002B\\Osipov_ASD\\05_Labs\\InseretionSortOnList\\InseretionSortOnList\\Source.cpp",
+              "RelativeToolTip": "InseretionSortOnList\\Source.cpp",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAUwKoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-11T05:45:54.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
