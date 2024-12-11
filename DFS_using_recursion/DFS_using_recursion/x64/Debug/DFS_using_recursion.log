@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Arseny\source\repos\С++\Osipov_ASD\05_Labs\DFS_using_recursion\DFS_using_recursion\Source.cpp(151,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  DFS_using_recursion.vcxproj -> C:\Users\Arseny\source\repos\С++\Osipov_ASD\05_Labs\DFS_using_recursion\x64\Debug\DFS_using_recursion.exe
