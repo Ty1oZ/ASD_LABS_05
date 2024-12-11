@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Arseny\source\repos\С++\Osipov_ASD\05_Labs\DFS_using_iterative_by_list\DFS_using_iterative_by_list\Source.cpp(190,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  DFS_using_iterative_by_list.vcxproj -> C:\Users\Arseny\source\repos\С++\Osipov_ASD\05_Labs\DFS_using_iterative_by_list\x64\Debug\DFS_using_iterative_by_list.exe
