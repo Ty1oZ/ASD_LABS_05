@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Arseny\source\repos\С++\Osipov_ASD\05_Labs\DFS_using_iterations\DFS_using_iterations\Source.cpp(131,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  DFS_using_iterations.vcxproj -> C:\Users\Arseny\source\repos\С++\Osipov_ASD\05_Labs\DFS_using_iterations\x64\Debug\DFS_using_iterations.exe

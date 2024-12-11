@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Arseny\\source\\repos\\\u0421\u002B\u002B\\Osipov_ASD\\05_Labs\\DFS_using_iterations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF08F34-FAAF-41BB-8053-E81D27C9E62D}|DFS_using_iterations\\DFS_using_iterations.vcxproj|C:\\Users\\Arseny\\source\\repos\\\u0421\u002B\u002B\\Osipov_ASD\\05_Labs\\DFS_using_iterations\\DFS_using_iterations\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8FF08F34-FAAF-41BB-8053-E81D27C9E62D}|DFS_using_iterations\\DFS_using_iterations.vcxproj|solutionrelative:DFS_using_iterations\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Arseny\\source\\repos\\\u0421\u002B\u002B\\Osipov_ASD\\05_Labs\\DFS_using_iterations\\DFS_using_iterations\\Source.cpp",
+              "RelativeDocumentMoniker": "DFS_using_iterations\\Source.cpp",
+              "ToolTip": "C:\\Users\\Arseny\\source\\repos\\\u0421\u002B\u002B\\Osipov_ASD\\05_Labs\\DFS_using_iterations\\DFS_using_iterations\\Source.cpp",
+              "RelativeToolTip": "DFS_using_iterations\\Source.cpp",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAJgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-02T15:58:55.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
