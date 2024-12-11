@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Arseny\\source\\repos\\\u0421\u002B\u002B\\Osipov_ASD\\05_Labs\\permutation_of_the_maximum_and_minimum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E67D6F68-EE19-45A6-A374-297147E0EA8C}|permutation_of_the_maximum_and_minimum\\permutation_of_the_maximum_and_minimum.vcxproj|C:\\Users\\Arseny\\source\\repos\\\u0421\u002B\u002B\\Osipov_ASD\\05_Labs\\permutation_of_the_maximum_and_minimum\\permutation_of_the_maximum_and_minimum\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E67D6F68-EE19-45A6-A374-297147E0EA8C}|permutation_of_the_maximum_and_minimum\\permutation_of_the_maximum_and_minimum.vcxproj|solutionrelative:permutation_of_the_maximum_and_minimum\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Arseny\\source\\repos\\\u0421\u002B\u002B\\Osipov_ASD\\05_Labs\\permutation_of_the_maximum_and_minimum\\permutation_of_the_maximum_and_minimum\\Source.cpp",
+              "RelativeDocumentMoniker": "permutation_of_the_maximum_and_minimum\\Source.cpp",
+              "ToolTip": "C:\\Users\\Arseny\\source\\repos\\\u0421\u002B\u002B\\Osipov_ASD\\05_Labs\\permutation_of_the_maximum_and_minimum\\permutation_of_the_maximum_and_minimum\\Source.cpp",
+              "RelativeToolTip": "permutation_of_the_maximum_and_minimum\\Source.cpp",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAkwHIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-01T20:13:36.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
